@@ -1,0 +1,10 @@
+{
+  "manager_ws": "ws://MANAGER_IP:8765",
+  "node_id": "node_default",
+  "node_token": "PUT-YOUR-NODE-TOKEN-HERE",
+  "max_pending": 10,
+  "sandbox": "dangerFullAccess",
+  "approval_policy": "onRequest",
+  "codex_cwd": "/root/codex-node-manager",
+  "codex_bin": "codex"
+}

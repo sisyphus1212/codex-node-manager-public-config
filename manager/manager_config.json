@@ -1,0 +1,5 @@
+{
+  "telegram_bot_token": "PUT-YOUR-TELEGRAM-BOT-TOKEN-HERE",
+  "manager_ws_listen": "0.0.0.0:8765",
+  "default_node": "node_default"
+}
