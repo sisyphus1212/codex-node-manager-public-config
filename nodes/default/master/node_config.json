@@ -1,0 +1,10 @@
+{
+  "manager_ws": "ws://MANAGER_IP:8765",
+  "node_id": "master",
+  "node_token": "nt_FAKE_MASTER_TOKEN_CHANGE_ME",
+  "max_pending": 10,
+  "sandbox": "dangerFullAccess",
+  "approval_policy": "onRequest",
+  "codex_cwd": "/root/codex-node-manager",
+  "codex_bin": "codex"
+}
