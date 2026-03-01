@@ -1,0 +1,5 @@
+version: 1
+interface:
+  display_name: Ansible Node NO_PROXY Rollout
+  short_description: Host-scoped NO_PROXY rollout and node restart
+  default_prompt: Apply host-scoped NO_PROXY/no_proxy bypass values via Ansible, persist in bashrc and node env file, restart node services, and verify status.
